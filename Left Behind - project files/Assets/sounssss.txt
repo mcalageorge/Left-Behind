@@ -1,0 +1,15 @@
+-4.5 -3 -1.5
+
+-5 -2.5 2.5 5
+
+
+
+sunet swipe: cand incepe sa se miste bratul;
+sunet rightattack: cand apare + fade in/out
+sunet six: vshum
+sunet fan: sound on impact + IDK SESARCH
+SUNET CIRCLE: spawn sound effect
+sunet rain: rock falling sound effect
+sunet extendo: corckroach
+sunet pillar: nada
+sunet bits: rock falling sound effect

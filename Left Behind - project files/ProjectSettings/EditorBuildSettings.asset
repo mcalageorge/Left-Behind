@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Menu.unity
+    guid: 8e381aae8d30ec54b9dc5cdaf0e0c5fd
+  - enabled: 0
+    path: Assets/Scenes/L1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/FIGHT.unity
+    guid: 348b817359d3e094ca7d63a0b4a26cc5
+  - enabled: 0
+    path: Assets/Scenes/WalkNeutralAttack.unity
+    guid: 3273d082579d6d344a32474c3a4e0930
+  - enabled: 0
+    path: Assets/Scenes/WalkNeutralSpare.unity
+    guid: 883cabbec48b4af4e9606d44199ed301
+  - enabled: 0
+    path: Assets/Scenes/WalkPacifistSpare.unity
+    guid: 7db5b12491469d648a413c77341e1c78
+  - enabled: 0
+    path: Assets/Scenes/WalkGenocideFight.unity
+    guid: d41197afbf5147347ae7174ce531da2c
+  m_configObjects: {}

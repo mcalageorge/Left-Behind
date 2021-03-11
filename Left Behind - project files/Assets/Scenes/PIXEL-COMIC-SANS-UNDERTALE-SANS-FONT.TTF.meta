@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9a42a62c58b53ad4394c0aecabe2516a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 300
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pixel Comic Sans (Undertale Sans Font)
+  fontNames:
+  - Pixel Comic Sans (Undertale Sans Font)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
