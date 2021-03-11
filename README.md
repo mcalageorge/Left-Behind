@@ -13,3 +13,5 @@ The game features:
 - A lot of lore.
 
 - And eight different endings.
+
+Official game-link: https://gamejolt.com/games/LEFTBEHIND/592685
