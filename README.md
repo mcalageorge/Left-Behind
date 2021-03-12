@@ -13,3 +13,7 @@ The game features:
 - A lot of lore.
 
 - And eight different endings.
+
+![Main Menu](1.png)
+![Exploring](2.png)
+![Boss Fight](3.png)
