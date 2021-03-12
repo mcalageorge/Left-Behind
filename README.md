@@ -14,6 +14,8 @@ The game features:
 
 - And eight different endings.
 
+- Full gamepad support
+
 Official game-link: https://gamejolt.com/games/LEFTBEHIND/592685
 
 [Main Menu]
