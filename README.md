@@ -14,6 +14,10 @@ The game features:
 
 - And eight different endings.
 
+Official game-link: https://gamejolt.com/games/LEFTBEHIND/592685
+
 ![Main Menu](1.png)
 ![Exploring](2.png)
 ![Boss Fight](3.png)
+
+
