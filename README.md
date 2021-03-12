@@ -18,7 +18,7 @@ Official game-link: https://gamejolt.com/games/LEFTBEHIND/592685
 
 [Main Menu]
 ![Main Menu](1.png)
-[Exploring]
-![Exploring](2.png)
 [Boss Fight]
+![Exploring](2.png)
+[Exploring]
 ![Boss Fight](3.png)
