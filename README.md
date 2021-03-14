@@ -25,9 +25,6 @@ Official game-link: https://gamejolt.com/games/LEFTBEHIND/592685
 [Boss Attacks]
 ![Boss Attacks](Gifs/attack.gif)
 
-[Menu Screen]
-![Menu Screen](Gifs/Intro.gif)
-
 [Interaction with world objects]
 ![Interaction with world objects](Gifs/interaction.gif)
 
