@@ -20,6 +20,11 @@ The game features:
 
 Official game-link: https://gamejolt.com/games/LEFTBEHIND/592685
 
+
+
+[Boss Attacks]
+![Boss Attacks](Gifs/attack.gif)
+
 [Menu Screen]
 ![Menu Screen](Gifs/Intro.gif)
 
@@ -28,14 +33,3 @@ Official game-link: https://gamejolt.com/games/LEFTBEHIND/592685
 
 [Boss awakening]
 ![Boss awakening](Gifs/awakening.gif)
-
-[Boss Attacks]
-![Boss Attacks](Gifs/attack.gif)
-
-[Main Menu]
-![Main Menu](Pictures/1.png)
-[Boss Fight]
-![Exploring](2.png)
-[Exploring]
-![Boss Fight](3.png)
-
