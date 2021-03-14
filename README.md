@@ -10,6 +10,8 @@ The game features:
 
 - A certain monster who speaks in hands.
 
+- Branching dialogue where your decisions truly matter.
+
 - A lot of lore.
 
 - And eight different endings.
