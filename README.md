@@ -20,9 +20,13 @@ The game features:
 
 Official game-link: https://gamejolt.com/games/LEFTBEHIND/592685
 
+[Interaction with world objects]
+[![Interaction with world objects](Gifs/talkingsans gif.gif)]
+
 [Main Menu]
 ![Main Menu](Pictures/1.png)
 [Boss Fight]
 ![Exploring](2.png)
 [Exploring]
 ![Boss Fight](3.png)
+
