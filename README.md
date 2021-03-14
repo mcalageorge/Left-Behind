@@ -21,7 +21,7 @@ The game features:
 Official game-link: https://gamejolt.com/games/LEFTBEHIND/592685
 
 [Main Menu]
-![Main Menu](1.png)
+![Main Menu](Pictures/1.png)
 [Boss Fight]
 ![Exploring](2.png)
 [Exploring]
