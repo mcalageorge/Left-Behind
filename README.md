@@ -27,10 +27,10 @@ Official game-link: https://gamejolt.com/games/LEFTBEHIND/592685
 ![Interaction with world objects](Gifs/interaction.gif)
 
 [Boss awakening]
-![Boss awakening](Gifs/boss awakening gif.gif)
+![Boss awakening](Gifs/awakening.gif)
 
 [Boss Attacks]
-![Boss Attacks](Gifs/boss attack gif.gif)
+![Boss Attacks](Gifs/attack.gif)
 
 [Main Menu]
 ![Main Menu](Pictures/1.png)
