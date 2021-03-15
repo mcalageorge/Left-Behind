@@ -4,6 +4,8 @@ LEFT BEHIND is an unofficial fan-game of Toby Fox's UNDERTALE, this fangame feat
 
 The game features:
 
+- Created with C# using the Unity Engine 
+
 - A map which you can explore and interact with.
 
 - A full-fledged boss fight with multiple ways to beat it.
